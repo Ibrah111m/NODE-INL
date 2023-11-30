@@ -1,5 +1,5 @@
 [
-    {"name":"K", "user": "kibr", "pass":"lösen123"},
-    {"name":"ibrahim", "user": "Ibra", "pass": "hemligt!"},
-    {"name":"Skutt", "user": "skutt", "pass": "secret?"}
-]
+    {"name":"K", "user": "kibr", "password":"lösen123"},
+    {"name":"Skutt", "user": "skutt", "password": "secret?"}
+  ]
+  

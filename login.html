@@ -6,10 +6,14 @@
     <title>Document</title>
 </head>
 <body>
-   <form action="Login" method="post">
-    Användarnamn: <input name = "username "type="text">
-    Lösenord: <input name = "Password"type="text">
-  <input type="submit">
- </form> 
+ <!--  -->
+
+<form action="/loginSubmit" method="post">
+  <!--  -->
+  <input type="text" name="username" placeholder="Användarnamn" required>
+  <input type="password" name="Password" placeholder="Lösenord" required>
+  <button type="submit">Logga in</button>
+</form>
+
 </body>
 </html>
